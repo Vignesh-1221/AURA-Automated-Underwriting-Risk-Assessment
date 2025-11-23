@@ -62,7 +62,6 @@ Transparent reasoning metadata.
     ├── src/
     │   └── autosure/
     │       ├── domain/
-    │       ├── inference/
     │       ├── interface/
     │       ├── rules/
     │       └── services/
@@ -125,3 +124,4 @@ Final Score = (Rule Score \* 0.4) + (AI Score \* 0.6)
 ## Credits
 
 Built for the 2025 Insurance Tech Challenge.
+
